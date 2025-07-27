@@ -55,7 +55,7 @@ $langs->load('upbuttons@upbuttons')
 				, border: '1px solid #e0e0e0'
 				, 'border-radius': '10px 0 0 0'
 				, 'margin': '0 0 0 0'
-				, 'opacity': 1
+				, 'opacity': 0.7
 			});
  <?php } ?>
 
